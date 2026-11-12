@@ -10,8 +10,9 @@ debug.log
 *.tmp
 *.bak
 
-# Packages
+# Packages & Archives
 *.zip
+Webpoint-Icons/
 
 # IDE & Editor artifacts
 .vs/
