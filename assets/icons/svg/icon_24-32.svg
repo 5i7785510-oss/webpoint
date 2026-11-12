@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.71 -2.96 35.43 35.43">
+  <defs>
+    <linearGradient id="se" x1="0" x2="1"><stop offset="0" stop-color="#0B57D0"/><stop offset=".6" stop-color="#1AA7EC"/><stop offset="1" stop-color="#3CCB8C"/></linearGradient>
+    <linearGradient id="sf" x1="0" x2="1"><stop offset="0" stop-color="#FFC93C"/><stop offset="1" stop-color="#FF6B1A"/></linearGradient>
+    <linearGradient id="sc" x1="0" x2="1"><stop offset="0" stop-color="#EA4335"/><stop offset=".333" stop-color="#EA4335"/><stop offset=".333" stop-color="#FBBC04"/><stop offset=".667" stop-color="#FBBC04"/><stop offset=".667" stop-color="#34A853"/><stop offset="1" stop-color="#34A853"/></linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9ECF2"/><stop offset="1" stop-color="#9AA2B3"/></linearGradient>
+    <clipPath id="ck"><rect x="9.5" y="4" width="13" height="19" rx="2.6"/></clipPath>
+  </defs>
+  <g transform="rotate(-24 16 30)"><rect x="9.5" y="4" width="13" height="19" rx="2.6" fill="#FFF8EC" stroke="#C9CFDB" stroke-width=".7"/><rect x="9.5" y="4" width="13" height="5" fill="url(#sc)" clip-path="url(#ck)"/></g>
+  <g transform="rotate(24 16 30)"><rect x="9.5" y="4" width="13" height="19" rx="2.6" fill="#FFF4E8" stroke="#C9CFDB" stroke-width=".7"/><rect x="9.5" y="4" width="13" height="5" fill="url(#sf)" clip-path="url(#ck)"/></g>
+  <g transform="translate(0 -1.5)"><rect x="9.5" y="4" width="13" height="19" rx="2.6" fill="#F7FAFF" stroke="#BFC7D6" stroke-width=".7"/><rect x="9.5" y="4" width="13" height="5" fill="url(#se)" clip-path="url(#ck)"/>
+    <g fill="none" stroke="#0B57D0" stroke-width="1.7" transform="rotate(-45 16 15.5)"><rect x="11.4" y="13.7" width="5.6" height="3.6" rx="1.8"/><rect x="15" y="13.7" width="5.6" height="3.6" rx="1.8"/></g></g>
+  <rect x="5" y="21.5" width="22" height="5.5" rx="2.75" fill="url(#sh)" stroke="#7D8699" stroke-width=".6"/>
+</svg>

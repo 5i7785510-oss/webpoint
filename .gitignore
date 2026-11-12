@@ -1,0 +1,20 @@
+# Build outputs
+bin/
+obj/
+*.exe
+*.dll
+
+# Logs & temp files
+*.log
+debug.log
+*.tmp
+*.bak
+
+# Packages
+*.zip
+
+# IDE & Editor artifacts
+.vs/
+.vscode/
+*.user
+*.suo
